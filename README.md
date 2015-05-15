@@ -1,0 +1,2 @@
+# ChineseCharacterSorting
+将汉字按照拼音首字母进行排序
